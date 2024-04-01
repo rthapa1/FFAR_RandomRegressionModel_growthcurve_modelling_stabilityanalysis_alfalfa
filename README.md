@@ -1,1 +1,1 @@
-# FFAR_RandomRegressionModel_growthcurve_modelling_stabilityanalysis_alfalfa
+# FFAR Project - Remote sensing for estimating genetic parameters of biomass accumulation and modeling stability of development curves in alfalfa.
